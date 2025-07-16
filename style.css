@@ -1,0 +1,46 @@
+img {
+  width: 100%;
+}
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header h1 {
+  text-align: center;
+  background-color: #2c5875;
+  color: white;
+  padding: 10px 10px;
+}
+.middleSection {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+#message p {
+  font-size: 44px;
+  background-color: rgb(239, 77, 103);
+  margin: 0px 10px 0px 10px;
+  padding: 90px 80px 65px 80px;
+}
+.morePups {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 900;
+  margin: 60px 40px;
+}
+.bottomPics {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+footer {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 80px;
+  font-size: 40px;
+  background-color: #2c5875;
+  padding: 100px 0px 140px 0px;
+  color: white;
+}
